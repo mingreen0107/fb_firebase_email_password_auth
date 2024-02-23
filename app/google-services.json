@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20879539462",
+    "project_id": "fir-email-password-auth-613e9",
+    "storage_bucket": "fir-email-password-auth-613e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20879539462:android:77beabafb08355a0d37287",
+        "android_client_info": {
+          "package_name": "com.example.fb_firebase_email_password_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2qGdSyt0gpwxPaTm_yhNXSGRJr4gXaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
